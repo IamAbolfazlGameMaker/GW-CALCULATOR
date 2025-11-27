@@ -9,7 +9,7 @@
 
 © 2025 Golden Wings Studio. All rights reserved.
 
-Dev: Radin6262 Manager: IamAbolfazlGameMaker
+Dev: IamAbolfazlGameMaker
 
 1. Ownership – Golden Wings Studio retains full ownership of this project.
 2. Use – Anyone can use this IDE
